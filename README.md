@@ -14,11 +14,6 @@ This project empowers recruiters and hiring managers with real-time, visual insi
 ### Login Interface
 ![Login Screenshot](/loginpage.jpeg)
 
-👉 **Live Dashboard Link (Add if published):**
-[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiEXAMPLE123...)
-
-> 🔐 “Publish to Web” links make dashboards public — share with caution!
-
 ## 📚 Table of Contents
 - [Features](#-features)
 - [Installation](#-installation)
@@ -41,5 +36,5 @@ No setup needed to view the dashboard if published online.
 To work locally:
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/aspnet-recruitment-dashboard.git
+   git clone https://github.com/pallavichitti/aspnet-recruitment-dashboard.git
    cd aspnet-recruitment-dashboard
