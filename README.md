@@ -9,10 +9,10 @@ This project empowers recruiters and hiring managers with real-time, visual insi
 ## 📊 Dashboard Preview
 
 ### Salary Benchmarking by Experience Level
-![Dashboard Screenshot](images/dashboard-salary.png)
+![Dashboard Screenshot](/Dashboardoverview.jpeg)
 
 ### Login Interface
-![Login Screenshot](images/login-screen.png)
+![Login Screenshot](/loginpage.jpeg)
 
 👉 **Live Dashboard Link (Add if published):**
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiEXAMPLE123...)
