@@ -4,14 +4,6 @@
 
 ---
 
-## 📖 Project Overview
-
-This project presents an intelligent recruitment dashboard tailored for ASP.NET developer roles. Built using Power BI and driven by cleaned and validated datasets, it offers real-time insights into hiring trends, salary benchmarks, hiring risks, recruiter responsiveness, and candidate-job fit.
-
-Whether you're a hiring lead aiming to reduce recruitment inefficiencies, or a job seeker trying to identify the right opportunity, this dashboard simplifies decision-making with interactive visuals and actionable data.
-
----
-
 ## 📚 Table of Contents
 
 - [Project Overview](#-project-overview)
@@ -30,6 +22,14 @@ Whether you're a hiring lead aiming to reduce recruitment inefficiencies, or a j
 - [How to Use](#-how-to-use)
 - [Use Cases](#-use-cases)
 - [License](#-license)
+
+---
+
+## 📖 Project Overview
+
+This project presents an intelligent recruitment dashboard tailored for ASP.NET developer roles. Built using Power BI and driven by cleaned and validated datasets, it offers real-time insights into hiring trends, salary benchmarks, hiring risks, recruiter responsiveness, and candidate-job fit.
+
+Whether you're a hiring lead aiming to reduce recruitment inefficiencies, or a job seeker trying to identify the right opportunity, this dashboard simplifies decision-making with interactive visuals and actionable data.
 
 ---
 
